@@ -17,6 +17,7 @@
 	- Theme - Spacegray
 	- Material Theme
 	- Text Pastry [Generate repeat, increase number and more]
+	- PackageSync [Sync packages and settings through cloud storage or offline file export]
 	- View In Browser
 	- GhostText
 	- FTPSync
